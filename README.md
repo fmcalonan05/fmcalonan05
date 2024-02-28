@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fmcalonan05
 - 👀 I’m interested in sports, history and food
 - 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on designing a website for my podcast about sport
+- 💞️ I’m looking to collaborate on a translator style app I have in mind
 - 📫 How to reach me ... fmcalonan822@gmail.com
 
 <!---
